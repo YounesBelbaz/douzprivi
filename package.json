@@ -1,9 +1,9 @@
 {
-  "name": "douzprivi",
+  "name": "maw9af",
   "version": "1.0.0",
-  "description": "Simple website for store market",
+  "description": "Simple website for trade skills profile",
   "main": "index.js",
-  "repository": "git@github.com:YounesBelbaz/douzprivi.git",
+  "repository": "git@github.com:YounesBelbaz/maw9af.git",
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js"
   },
